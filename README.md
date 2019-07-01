@@ -16,7 +16,7 @@ therefore replace [5,3,1] and store [9,-11,14]. Now we will continue expanding o
 the last 2 elements of the array are -100,50. Our new sub-array is [9,-11,14,-100,50], we can see this sub-array total sum is less than previous
 one. So the correct answer is [9,-11,14].
 
-Our logic we will fine if there any positive elements in the array but will fail there are none. 
-To rectify this we will add IF statement that will just return the max element if the srray has no positive element.
+Our logic we will be fine if there are any positive elements in the array but will fail there are none. 
+To rectify this we will add a IF statement that will return the max element if the srray has no positive element.
 
 
